@@ -1,0 +1,6 @@
+Mi nombre es Eduardo
+Mi apellido es Jara
+Mi lenguaje preferido es Python
+Tengo 18 Años
+Me gusta jugar volleybol
+Swift
